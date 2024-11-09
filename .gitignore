@@ -1,0 +1,8 @@
+sepolia_usdc_subgraph/build/
+sepolia_usdc_subgraph/generated/
+sepolia_usdc_subgraph/node_modules/
+sepolia_usdc_subgraph/jspm_packages/
+sepolia_usdc_subgraph/.env
+
+frontend/usdc-transfer-tracker/node_modules
+frontend/usdc-transfer-tracker/.env

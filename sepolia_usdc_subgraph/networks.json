@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "MockToken": {
+      "address": "0xB9f4E777491bb848578B6FBa5c8A744A40d11128",
+      "startBlock": 3874423
+    }
+  }
+}
